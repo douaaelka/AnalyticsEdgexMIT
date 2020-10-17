@@ -1,9 +1,9 @@
 # 15.071x: Analytics Edge x MIT - Units' Assignments using Python
-MITx 15.071x The Analytics Edge - Homework Assignments
+
 ====
 
 
-[Link to the MOOC, available on the edx platform for free now .](https://courses.edx.org/courses/course-v1:MITx+15.071x_3+1T2016/ "Link to the MOOC")
+[Link to the MOOC, available on the edx platform .](https://courses.edx.org/courses/course-v1:MITx+15.071x_3+1T2016/ "Link to the MOOC")
 
 -----
 ## Unit 1: An introduction to Analytics and R
