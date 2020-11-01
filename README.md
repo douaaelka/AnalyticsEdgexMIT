@@ -17,8 +17,7 @@
 - Assigment 1:
     - An analytical detective.
     - Stock Dynamics.
-    - Demographics and Employment in the United States.
-    - Internet privacy poll.
+
 
 -----
 ## Unit 2: Linear Regression
@@ -30,8 +29,6 @@
 - Recitation: Playing Moneyball in the NBA.
 - Assignment 2:
     - Climate change.
-    - Reading test scores (PISA).
-    - Detecting Flu Epidemics via Search Engine Query Data.
     - State Data.
 
 ------
@@ -44,9 +41,6 @@
 - Recitation : Election Forecasting: Predicting the Winner Before any Votes are Cast
 - Assigment 3:
     - Popularity of music records.
-    - Predicting parole violators.
-    - Predicting loan payment.
-
 
 ------
 ## Unit 4: Trees
@@ -66,15 +60,6 @@
 -----
 ## Unit 7: Visualization
 
-:white_check_mark: Completed.
-
-- Introduction to visualization: Visualizing the world.
-- Lecture: The Analytical Policeman: Visualization for Law and Order.
-- Recitation: The Good, the Bad, and the Ugly (examples of good and bad visualizations.
-- Assigment 7 :
-    - Election Forecasting in the US.
-    - Visualizing Network Data on Facebook.
-    - Visualizing Text Data Using Word Clouds on Twitter.
 
 -----
 ## Unit 8: Linear Optimization
