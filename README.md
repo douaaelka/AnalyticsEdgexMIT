@@ -50,6 +50,15 @@
 -----
 ## Unit 5: Text Analytics
 
+:white_check_mark: Completed.
+
+- Turning Tweets into Knowledge: An Introduction to Text Analytics.
+- Lecture: IBM Watson.
+- Recitation: The Story of Enron.
+- Assignment 2:
+    - Separating Spam from Ham
+    - Detecting Vandalism on Wikipedia
+    - Automating Reviews in Medicine
 
 
 -----
