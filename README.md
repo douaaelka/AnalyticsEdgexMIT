@@ -12,11 +12,9 @@
 
 - Initial evaluation (various knowledge about Data & Machine Learning).
 - First lecture.
-- Intro to R.
 - Recitation: Understanding Food, Nutritional Education with Data.
 - Assigment 1:
     - An analytical detective.
-    - Stock Dynamics.
 
 
 -----
